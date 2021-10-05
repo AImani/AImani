@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Javascript developer.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / C# / SQL 
 
 - 🔭 I’m currently working on eFarda 
 - 🌱 I’m currently learning Flutter 
@@ -17,4 +17,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aimani)  
 
-![Profile views](https://gpvc.arturio.dev/aimani
+![Profile views](https://gpvc.arturio.dev/aimani)
